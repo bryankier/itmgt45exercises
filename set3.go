@@ -3,7 +3,6 @@ package main
 import "strings"
 
 func main() {
-	// Placeholder
 }
 
 // Relationship status
